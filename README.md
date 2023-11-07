@@ -46,7 +46,7 @@ The animation is made interactive by allowing smooth zooming with the canvas fol
 
 ## Why π is Irrational
 
-The irrationality of π means that it cannot be expressed as a simple fraction, and its decimal representation goes on forever without repeating. There is no pair of integers (a and b) for which a/b equals π. This property is a consequence of the mathematical nature of π and is demonstrated in the animation through near-miss approximations.
+The irrationality of π means that it cannot be expressed as a simple fraction, and its decimal representation goes on forever without repeating. There is no pair of integers (a and b) for which a/b equals π. This property is a consequence of the mathematical nature of π and is demonstrated in the animation through near-miss approximations.that mean at on point will it copy its only path, you can check the visualisation for more clarity on this.
 
 ## How to Use
 
